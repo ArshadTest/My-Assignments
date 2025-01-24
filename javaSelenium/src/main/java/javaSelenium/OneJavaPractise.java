@@ -1,0 +1,17 @@
+package javaSelenium;
+
+public class OneJavaPractise {
+
+ public static void main(String[] args) {
+	 int employeeID = 12454;
+	 String name = "Arshad";
+	 char initial = 'A';
+	 
+	 System.out.println("My employee ID is "+employeeID+"\n"+"My name is "+name+"\n"+"My initial is "+initial);
+	
+	 System.out.println("****************************************************");
+	 
+	 System.out.println("My name is "+name+"\n"+"My initial is "+initial+"\n"+"My employeeID is "+employeeID);
+}
+
+}
